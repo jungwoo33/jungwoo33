@@ -1,4 +1,4 @@
-![Jungwoo Lee](./Jungwoo_v2.gif)
+![Jungwoo Lee](./Jungwoo_v3.gif)
 ### Hi,👋, I am Jungwoo Lee.
 
 I am a Numerical Modeler & Software Engineer. I developed a three-dimensional ocean circulation model, the General Ocean Model (GOM). GOM was developed by combining finite difference and finite volume numerical schemes, taking advantage of the computational efficiency of the finite difference method (FDM), the exact conservation of finite volume method (FVM), and the flexibility of representing complex geometry with an orthogonal unstructured mesh system. The GOM is consisted of more than 100 subroutines and 30,000 lines of FORTRAN codes. Please enjoy my model, GOM (https://ufgom.org/). 
