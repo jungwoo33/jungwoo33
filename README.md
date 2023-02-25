@@ -1,4 +1,4 @@
-![Jungwoo Lee](./assets/project_description_v1.gif)
+![Jungwoo Lee](./Jungwoo.gif)
 ### Hi there 👋
 
 <!--
